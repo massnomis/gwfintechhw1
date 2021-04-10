@@ -4,18 +4,30 @@
 
 ## Compound Finance is an on-chain Money Market protocol
 
-The protocol is built on ethereum, using solidity contracts to allow 
+The protocol is built on ethereum, using solidity contracts to allow user to interact in a way described as "peer to pool"
 
-Contributors: The names of everyone in your group
+Users can lend idle assets to earn interest on their money
 
-### H3 heading: A title for the FinTech case study report
+Users can then borrow assets against their deposits, as much as their "cratio" or collateralization ratio permits
+
+Borrowers pay interest on their borrowings, and a certain percentage "rratio" or reserve ratio of the interterst paid goes towards the protocols reserves.
+
+## Governance
+
+Compound has distributed tokens which allow holders to vote on protocol upgrades
+
+## Long term Outlook
+
+they are develpoping compound.cash on a gateway chanel, allowing for cheap transactions
+
+
+
+### Group Members: Sam and Christy
 
 Case study content: Content for the case study
 
 Push the changes to the shared GitHub repository.
 
-
 Navigate to the shared GitHub repository and confirm the changes.
 
-Hint
-If you and your partner plan to work on the file at the same time, be aware of merge conflicts. That is, be careful not to create separate versions of the file, as git will not know which version should take precedence. Learn more about git merge conflicts here.
+
