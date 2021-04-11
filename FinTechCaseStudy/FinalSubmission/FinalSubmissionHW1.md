@@ -1,31 +1,52 @@
-# TITLE
+# Compound.Finance
 
 ## Overview and Origin
 
-* Name of company
+* Compound Labs
 
-* When was the company incorporated?
-
-* Who are the founders of the company?
+* Founded in 2017 by Geoffery Hayes and Robert Leshner
 
 * How did the idea for the company (or project) come about?
 
+Idle funds on ethereum were not earning any yeild
+
 * How is the company funded? How much funding have they received?
+
+Seed Funding - 8.2 Million Bain, Polychain, a16z
+Series A - 25 million a16z
+Governance Token 3.2 Billion 
 
 
 ## Business Activities:
 
 * What specific financial problem is the company or project trying to solve?
 
+On the ethereum blockchain, there are idle assets that do not bear interest.
+
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
+Instotutions
+
+Individuals
+
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
+Solidity
+
+Web3.js
+
+API
+
+Ethereum
+
+Rust
 
 ## Landscape:
 
 * What domain of the financial industry is the company in?
+
+Decentralized 
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
@@ -44,6 +65,8 @@ What solution does this company offer that their competitors do not or cannot of
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+
+Derivatives Contracts, Better Contributer Funding
 
 * Why do you think that offering this product or service would benefit the company?
 
