@@ -69,7 +69,7 @@ What are the other major companies in this domain?
 
 What has been the business impact of this company so far?
 
-*Comound has managed to connect major exhcnages (Binance, Coinbase) and hedge funds to acess their platform.
+* Compound has managed to connect major exhcnages (Binance, Coinbase) and hedge funds to acess their platform.
 
 What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
