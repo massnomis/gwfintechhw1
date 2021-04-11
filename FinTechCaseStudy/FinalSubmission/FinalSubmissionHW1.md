@@ -6,11 +6,11 @@
 
 * Founded in 2017 by Geoffery Hayes and Robert Leshner
 
-* How did the idea for the company (or project) come about?
+How did the idea for the company (or project) come about?
 
-Idle funds on ethereum were not earning any yeild
+* Idle funds on ethereum were not earning any yeild
 
-* How is the company funded? How much funding have they received?
+How is the company funded? How much funding have they received?
 
 * Seed Funding - 8.2 Million Bain, Polychain, a16z
 
