@@ -12,9 +12,9 @@ Idle funds on ethereum were not earning any yeild
 
 * How is the company funded? How much funding have they received?
 
-Seed Funding - 8.2 Million Bain, Polychain, a16z
-Series A - 25 million a16z
-Governance Token 3.2 Billion 
+*Seed Funding - 8.2 Million Bain, Polychain, a16z
+*Series A - 25 million a16z
+*Governance Token 3.2 Billion 
 
 
 ## Business Activities:
